@@ -337,19 +337,19 @@
       </Property>
       <Property name="WeaponSmall" value="GcInventoryLayoutGenerationDataEntry.xml">
         <Property name="MinSlots" value="5" />
-        <Property name="MaxSlots" value="10" />
+        <Property name="MaxSlots" value="15" />
         <Property name="MinExtraTech" value="0" />
         <Property name="MaxExtraTech" value="30" />
       </Property>
       <Property name="WeaponMedium" value="GcInventoryLayoutGenerationDataEntry.xml">
-        <Property name="MinSlots" value="11" />
-        <Property name="MaxSlots" value="16" />
+        <Property name="MinSlots" value="5" />
+        <Property name="MaxSlots" value="15" />
         <Property name="MinExtraTech" value="0" />
         <Property name="MaxExtraTech" value="0" />
       </Property>
       <Property name="WeaponLarge" value="GcInventoryLayoutGenerationDataEntry.xml">
-        <Property name="MinSlots" value="17" />
-        <Property name="MaxSlots" value="24" />
+        <Property name="MinSlots" value="5" />
+        <Property name="MaxSlots" value="15" />
         <Property name="MinExtraTech" value="0" />
         <Property name="MaxExtraTech" value="0" />
       </Property>
@@ -1256,8 +1256,8 @@
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="WEAPON_MINING" />
-              <Property name="Min" value="10" />
-              <Property name="Max" value="15" />
+              <Property name="Min" value="15" />
+              <Property name="Max" value="20" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -1281,8 +1281,8 @@
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="WEAPON_MINING" />
-              <Property name="Min" value="15" />
-              <Property name="Max" value="20" />
+              <Property name="Min" value="20" />
+              <Property name="Max" value="25" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -1306,7 +1306,7 @@
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="WEAPON_MINING" />
-              <Property name="Min" value="20" />
+              <Property name="Min" value="30" />
               <Property name="Max" value="35" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
@@ -1328,8 +1328,8 @@
           <Property name="BaseStats">
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="WEAPON_DAMAGE" />
-              <Property name="Min" value="0" />
-              <Property name="Max" value="5" />
+              <Property name="Min" value="10" />
+              <Property name="Max" value="15" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -1353,8 +1353,8 @@
           <Property name="BaseStats">
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="WEAPON_DAMAGE" />
-              <Property name="Min" value="5" />
-              <Property name="Max" value="10" />
+              <Property name="Min" value="15" />
+              <Property name="Max" value="20" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -1378,8 +1378,8 @@
           <Property name="BaseStats">
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="WEAPON_DAMAGE" />
-              <Property name="Min" value="10" />
-              <Property name="Max" value="15" />
+              <Property name="Min" value="20" />
+              <Property name="Max" value="25" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -1403,8 +1403,8 @@
           <Property name="BaseStats">
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="WEAPON_DAMAGE" />
-              <Property name="Min" value="15" />
-              <Property name="Max" value="20" />
+              <Property name="Min" value="25" />
+              <Property name="Max" value="35" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
