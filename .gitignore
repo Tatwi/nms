@@ -1,3 +1,4 @@
 *.MBIN
 *.pak
 *.nmf
+!/releases/*.pak
