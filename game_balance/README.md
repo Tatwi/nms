@@ -66,5 +66,10 @@ Most of these adjustments apply to all modes of the game, but I am speficically 
 - Mining C:4-6, B:6-9, A:10-15, S:15-20
 - Scanner C:4-6, B:6-9, A:10-15, S:15-20
 
+## Item Balance
+- **Ion Battery and Advanced Ion Battery:** Increased stack size so that there is actually a benefit of using them to recharge, because it was many times more effective (and cheaper!) to just use stacks of plain resources in the High Capacity Inventory slots. Now it's slightly better to use the batteries. Even with this higher stack size (which allows for more charges per inventory slot), one is likely to have the charging resoures anyway, because they are needed to repair broken tech, etc. Anyway, it bugged me, so I did this!
+- **Life Support Gel:** Same idea as with the batteries. Slightly more effective than a stack of 500 Oxygen.
+- **Oxygen Capsule:** Same idea as with the batteries. Slightly more effective than a stack of 500 Dioxite.
+
 ## ToDo
 - Cause Sentinels in space to disengage (after 3 waves or after the player flees for 30 seconds).
