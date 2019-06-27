@@ -2,6 +2,11 @@
 
 Most of these adjustments apply to all modes of the game, but I am speficically focusing on changes to **Survival Mode**, because the game play experience in that mode is more of what I expected from the game. Generally speaking, all of these changes make the game "harder", but more fun *for me*. However, there may be some changes that add a greater purpose to an item or that lessen the tedium of something and one might consider those changes to be "easier", I suppose. Anyway, the overarching concept here is to have the game play experience meet *my* expectations.    
 
+## More Danger in Normal Mode
+- Doubled energy discharge rate (still lower than Survival Mode).
+- Hazard damage and underground recharge rate same as Survival Mode.
+- Makes my "normal saves" more interesting for me.
+
 ## Freighter Nerf
 - Can't magically transfer items to it from anywhere.
 - Hyperdrive upgrades required to travel to different colored stars.

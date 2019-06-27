@@ -199,9 +199,9 @@
   <Property name="HardModeEnergyDischargeRateHigh" value="2.2" />
   <Property name="HazardDamageMinTime" value="20" />
   <Property name="EnergyDamageMinTime" value="30" />
-  <Property name="EnergyDischargeRateLow" value="0.02" />
-  <Property name="EnergyDischargeRateMedium" value="0.25" />
-  <Property name="EnergyDischargeRateHigh" value="0.9" />
+  <Property name="EnergyDischargeRateLow" value="0.04" />
+  <Property name="EnergyDischargeRateMedium" value="0.5" />
+  <Property name="EnergyDischargeRateHigh" value="1.8" />
   <Property name="EnergyDischargeRateFloatingInSpace" value="30" />
   <Property name="EnergyPainRate" value="20" />
   <Property name="SolarRegenFactor" value="0.01" />
@@ -293,11 +293,11 @@
   <Property name="ClampPitch" value="False" />
   <Property name="DamageRepairFactor" value="0.5" />
   <Property name="DamageRepairFactorHardMode" value="0.5" />
-  <Property name="NormalModeHazardTimeMultiplier" value="0.9" />
-  <Property name="NormalModeHazardDamageRateMultiplier" value="0.8" />
-  <Property name="NormalModeHazardDamageWoundRateMultiplier" value="0.8" />
+  <Property name="NormalModeHazardTimeMultiplier" value="0.3" />
+  <Property name="NormalModeHazardDamageRateMultiplier" value="0.3" />
+  <Property name="NormalModeHazardDamageWoundRateMultiplier" value="0.3" />
   <Property name="NormalModeSubstanceRewardMultiplier" value="0.9" />
-  <Property name="NormalModeHazardRechargeUnderground" value="1.5" />
+  <Property name="NormalModeHazardRechargeUnderground" value="3.5" />
   <Property name="HardModeHazardTimeMultiplier" value="0.3" />
   <Property name="HardModeHazardDamageRateMultiplier" value="0.3" />
   <Property name="HardModeHazardDamageWoundRateMultiplier" value="0.5" />
