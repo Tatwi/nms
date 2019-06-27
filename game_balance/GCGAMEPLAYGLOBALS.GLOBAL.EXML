@@ -23,8 +23,8 @@
       <Property name="Value" value="F_HACCESS3" />
     </Property>
   </Property>
-  <Property name="FreighterRequiresRGBHyperdriveUpgrades" value="False" />
-  <Property name="AllowTeleportItemsToFreighter" value="True" />
+  <Property name="FreighterRequiresRGBHyperdriveUpgrades" value="True" />
+  <Property name="AllowTeleportItemsToFreighter" value="False" />
   <Property name="DisableAnomalyAmbientSpawn" value="False" />
   <Property name="AllowDeconstruct" value="True" />
   <Property name="AllowBinocularMarker" value="False" />
