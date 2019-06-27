@@ -360,7 +360,7 @@
       </Property>
       <Property name="Consumable" value="True" />
       <Property name="ChargeValue" value="100" />
-      <Property name="StackMultiplier" value="1" />
+      <Property name="StackMultiplier" value="6" />
       <Property name="DefaultCraftAmount" value="1" />
       <Property name="CraftAmountStepSize" value="1" />
       <Property name="CraftAmountMultiplier" value="1" />
@@ -444,7 +444,7 @@
       </Property>
       <Property name="Consumable" value="True" />
       <Property name="ChargeValue" value="50" />
-      <Property name="StackMultiplier" value="1" />
+      <Property name="StackMultiplier" value="5" />
       <Property name="DefaultCraftAmount" value="1" />
       <Property name="CraftAmountStepSize" value="1" />
       <Property name="CraftAmountMultiplier" value="1" />
@@ -528,7 +528,7 @@
       </Property>
       <Property name="Consumable" value="True" />
       <Property name="ChargeValue" value="30" />
-      <Property name="StackMultiplier" value="1" />
+      <Property name="StackMultiplier" value="10" />
       <Property name="DefaultCraftAmount" value="1" />
       <Property name="CraftAmountStepSize" value="1" />
       <Property name="CraftAmountMultiplier" value="1" />
@@ -612,7 +612,7 @@
       </Property>
       <Property name="Consumable" value="True" />
       <Property name="ChargeValue" value="80" />
-      <Property name="StackMultiplier" value="1" />
+      <Property name="StackMultiplier" value="10" />
       <Property name="DefaultCraftAmount" value="1" />
       <Property name="CraftAmountStepSize" value="1" />
       <Property name="CraftAmountMultiplier" value="1" />
