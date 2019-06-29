@@ -519,59 +519,59 @@
   </Property>
   <Property name="WeaponCostData">
     <Property name="Pistol" value="GcInventoryCostDataEntry.xml">
-      <Property name="MinSlots" value="6" />
-      <Property name="MinValueInMillions" value="0.08" />
-      <Property name="MaxSlots" value="9" />
-      <Property name="MaxValueInMillions" value="0.28" />
-      <Property name="CoolMultiplier" value="0" />
-      <Property name="TradeInMultiplier" value="70" />
-      <Property name="ClassMultiplier">
-        <Property name="C" value="0" />
-        <Property name="B" value="50" />
-        <Property name="A" value="100" />
-        <Property name="S" value="200" />
-      </Property>
-    </Property>
-    <Property name="Rifle" value="GcInventoryCostDataEntry.xml">
-      <Property name="MinSlots" value="17" />
-      <Property name="MinValueInMillions" value="1.5" />
-      <Property name="MaxSlots" value="28" />
-      <Property name="MaxValueInMillions" value="4" />
+      <Property name="MinSlots" value="5" />
+      <Property name="MinValueInMillions" value="0.5" />
+      <Property name="MaxSlots" value="15" />
+      <Property name="MaxValueInMillions" value="2.5" />
       <Property name="CoolMultiplier" value="0" />
       <Property name="TradeInMultiplier" value="70" />
       <Property name="ClassMultiplier">
         <Property name="C" value="0" />
         <Property name="B" value="5" />
         <Property name="A" value="15" />
-        <Property name="S" value="25" />
+        <Property name="S" value="35" />
+      </Property>
+    </Property>
+    <Property name="Rifle" value="GcInventoryCostDataEntry.xml">
+      <Property name="MinSlots" value="5" />
+      <Property name="MinValueInMillions" value="0.5" />
+      <Property name="MaxSlots" value="15" />
+      <Property name="MaxValueInMillions" value="2.5" />
+      <Property name="CoolMultiplier" value="0" />
+      <Property name="TradeInMultiplier" value="70" />
+      <Property name="ClassMultiplier">
+        <Property name="C" value="0" />
+        <Property name="B" value="5" />
+        <Property name="A" value="15" />
+        <Property name="S" value="35" />
       </Property>
     </Property>
     <Property name="Pristine" value="GcInventoryCostDataEntry.xml">
       <Property name="MinSlots" value="5" />
       <Property name="MinValueInMillions" value="0.5" />
-      <Property name="MaxSlots" value="24" />
-      <Property name="MaxValueInMillions" value="5" />
+      <Property name="MaxSlots" value="15" />
+      <Property name="MaxValueInMillions" value="2.5" />
       <Property name="CoolMultiplier" value="0" />
       <Property name="TradeInMultiplier" value="70" />
       <Property name="ClassMultiplier">
         <Property name="C" value="0" />
-        <Property name="B" value="10" />
-        <Property name="A" value="25" />
-        <Property name="S" value="50" />
+        <Property name="B" value="5" />
+        <Property name="A" value="15" />
+        <Property name="S" value="35" />
       </Property>
     </Property>
     <Property name="Alien" value="GcInventoryCostDataEntry.xml">
       <Property name="MinSlots" value="5" />
       <Property name="MinValueInMillions" value="0.5" />
-      <Property name="MaxSlots" value="24" />
-      <Property name="MaxValueInMillions" value="5" />
+      <Property name="MaxSlots" value="15" />
+      <Property name="MaxValueInMillions" value="2.5" />
       <Property name="CoolMultiplier" value="0" />
       <Property name="TradeInMultiplier" value="70" />
       <Property name="ClassMultiplier">
         <Property name="C" value="0" />
-        <Property name="B" value="10" />
-        <Property name="A" value="25" />
-        <Property name="S" value="50" />
+        <Property name="B" value="5" />
+        <Property name="A" value="15" />
+        <Property name="S" value="35" />
       </Property>
     </Property>
   </Property>
