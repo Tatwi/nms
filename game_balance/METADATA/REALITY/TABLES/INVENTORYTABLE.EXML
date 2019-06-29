@@ -441,8 +441,8 @@
         <Property name="ClassMultiplier">
           <Property name="C" value="25" />
           <Property name="B" value="50" />
-          <Property name="A" value="70" />
-          <Property name="S" value="100" />
+          <Property name="A" value="80" />
+          <Property name="S" value="115" />
         </Property>
       </Property>
       <Property name="Fighter" value="GcInventoryCostDataEntry.xml">
@@ -693,15 +693,15 @@
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_SHIELD" />
-              <Property name="Min" value="12" />
-              <Property name="Max" value="20" />
+              <Property name="Min" value="5" />
+              <Property name="Max" value="10" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_HYPERDRIVE" />
-              <Property name="Min" value="3" />
-              <Property name="Max" value="8" />
+              <Property name="Min" value="2" />
+              <Property name="Max" value="5" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -712,21 +712,21 @@
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_DAMAGE" />
               <Property name="Min" value="0" />
-              <Property name="Max" value="5" />
+              <Property name="Max" value="0" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_SHIELD" />
-              <Property name="Min" value="25" />
-              <Property name="Max" value="35" />
+              <Property name="Min" value="10" />
+              <Property name="Max" value="20" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_HYPERDRIVE" />
-              <Property name="Min" value="12" />
-              <Property name="Max" value="22" />
+              <Property name="Min" value="5" />
+              <Property name="Max" value="10" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -736,22 +736,22 @@
           <Property name="BaseStats">
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_DAMAGE" />
-              <Property name="Min" value="5" />
-              <Property name="Max" value="10" />
+              <Property name="Min" value="0" />
+              <Property name="Max" value="0" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_SHIELD" />
-              <Property name="Min" value="40" />
-              <Property name="Max" value="50" />
+              <Property name="Min" value="35" />
+              <Property name="Max" value="45" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_HYPERDRIVE" />
-              <Property name="Min" value="25" />
-              <Property name="Max" value="30" />
+              <Property name="Min" value="10" />
+              <Property name="Max" value="15" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -768,15 +768,15 @@
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_SHIELD" />
-              <Property name="Min" value="55" />
-              <Property name="Max" value="60" />
+              <Property name="Min" value="60" />
+              <Property name="Max" value="70" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_HYPERDRIVE" />
-              <Property name="Min" value="30" />
-              <Property name="Max" value="45" />
+              <Property name="Min" value="40" />
+              <Property name="Max" value="50" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -791,7 +791,7 @@
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_DAMAGE" />
               <Property name="Min" value="5" />
-              <Property name="Max" value="10" />
+              <Property name="Max" value="15" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -815,8 +815,8 @@
           <Property name="BaseStats">
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_DAMAGE" />
-              <Property name="Min" value="15" />
-              <Property name="Max" value="30" />
+              <Property name="Min" value="10" />
+              <Property name="Max" value="20" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -841,14 +841,14 @@
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_DAMAGE" />
               <Property name="Min" value="35" />
-              <Property name="Max" value="50" />
+              <Property name="Max" value="45" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_SHIELD" />
-              <Property name="Min" value="15" />
-              <Property name="Max" value="20" />
+              <Property name="Min" value="10" />
+              <Property name="Max" value="15" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -865,15 +865,15 @@
           <Property name="BaseStats">
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_DAMAGE" />
-              <Property name="Min" value="55" />
-              <Property name="Max" value="60" />
+              <Property name="Min" value="60" />
+              <Property name="Max" value="70" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_SHIELD" />
-              <Property name="Min" value="15" />
-              <Property name="Max" value="25" />
+              <Property name="Min" value="40" />
+              <Property name="Max" value="50" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -926,15 +926,15 @@
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_SHIELD" />
-              <Property name="Min" value="0" />
-              <Property name="Max" value="8" />
+              <Property name="Min" value="2" />
+              <Property name="Max" value="5" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_HYPERDRIVE" />
-              <Property name="Min" value="20" />
-              <Property name="Max" value="30" />
+              <Property name="Min" value="15" />
+              <Property name="Max" value="25" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -976,15 +976,15 @@
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_SHIELD" />
-              <Property name="Min" value="20" />
-              <Property name="Max" value="25" />
+              <Property name="Min" value="30" />
+              <Property name="Max" value="40" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_HYPERDRIVE" />
-              <Property name="Min" value="50" />
-              <Property name="Max" value="65" />
+              <Property name="Min" value="60" />
+              <Property name="Max" value="80" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -998,22 +998,22 @@
           <Property name="BaseStats">
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_DAMAGE" />
-              <Property name="Min" value="0" />
-              <Property name="Max" value="0" />
+              <Property name="Min" value="2" />
+              <Property name="Max" value="5" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_SHIELD" />
-              <Property name="Min" value="0" />
-              <Property name="Max" value="0" />
+              <Property name="Min" value="2" />
+              <Property name="Max" value="5" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_HYPERDRIVE" />
-              <Property name="Min" value="0" />
-              <Property name="Max" value="0" />
+              <Property name="Min" value="2" />
+              <Property name="Max" value="5" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -1023,22 +1023,22 @@
           <Property name="BaseStats">
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_DAMAGE" />
-              <Property name="Min" value="0" />
-              <Property name="Max" value="5" />
+              <Property name="Min" value="5" />
+              <Property name="Max" value="10" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_SHIELD" />
-              <Property name="Min" value="0" />
-              <Property name="Max" value="5" />
+              <Property name="Min" value="5" />
+              <Property name="Max" value="10" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_HYPERDRIVE" />
-              <Property name="Min" value="0" />
-              <Property name="Max" value="5" />
+              <Property name="Min" value="5" />
+              <Property name="Max" value="10" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -1048,22 +1048,22 @@
           <Property name="BaseStats">
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_DAMAGE" />
-              <Property name="Min" value="5" />
-              <Property name="Max" value="10" />
+              <Property name="Min" value="15" />
+              <Property name="Max" value="20" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_SHIELD" />
-              <Property name="Min" value="5" />
-              <Property name="Max" value="10" />
+              <Property name="Min" value="15" />
+              <Property name="Max" value="20" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_HYPERDRIVE" />
-              <Property name="Min" value="5" />
-              <Property name="Max" value="10" />
+              <Property name="Min" value="15" />
+              <Property name="Max" value="20" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
@@ -1073,22 +1073,22 @@
           <Property name="BaseStats">
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_DAMAGE" />
-              <Property name="Min" value="15" />
-              <Property name="Max" value="20" />
+              <Property name="Min" value="30" />
+              <Property name="Max" value="40" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_SHIELD" />
-              <Property name="Min" value="15" />
-              <Property name="Max" value="20" />
+              <Property name="Min" value="30" />
+              <Property name="Max" value="40" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>
             <Property value="GcInventoryGenerationBaseStatDataEntry.xml">
               <Property name="BaseStatID" value="SHIP_HYPERDRIVE" />
-              <Property name="Min" value="15" />
-              <Property name="Max" value="20" />
+              <Property name="Min" value="30" />
+              <Property name="Max" value="40" />
               <Property name="MinFixedAdd" value="0" />
               <Property name="MaxFixedAdd" value="0" />
             </Property>

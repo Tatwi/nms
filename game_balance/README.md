@@ -13,24 +13,41 @@ Most of these adjustments apply to all modes of the game, but I am speficically 
 
 ## Ship Inventory/Tech/Prices
 - Storage and tech slots are based on the role of the ship type, rather than size.
-- Stat bonuses were already OK except with Haulers, because shield bonuses are pointless due to being able to run away 100% of the time. As such, I gave a small bump to their hyperdive bonus.
-- Normalized ship prices based on Hauler's max units/inventory slot cost and the Fighter's class multiplier values. Low end Haulers are more expensive, because they always have the largest inventory and all other ships are way more expensive too!
+- Normalized ship prices. It's based only on units/inventory slot cost, so I made Haulers more expensive than the rest. All ships are considerably more expensive than default.
+- Normalized ship stats based on a max bonus budget of 15%/30%/60%/120% for C/B/A/S class to spread between the three stats (Damage/Shield/Hyperdrive). Generally, this was a buff to Shuttles, a small nerf to C/B/A classes (with the exception of Explorers), and buff to S classes.  
 
 #### Fighter
 - Inventory 15-20
 - Tech 5-12
+- C 5/0/0 - 15/0/0
+- B 10/5/0 - 20/10/0
+- A 35/10/0 - 45/15/0
+- S 60/40/0 - 70/50/0
 
 #### Shuttle
 - Inventory 20-33
 - Tech 3-8
+- C 2/2/2 - 5/5/5
+- B 5/5/5 - 10/10/10
+- A 15/15/15 - 20/20/20
+- S 30/30/30 - 40/40/40
+
 
 #### Explorer
 - Inventory 15-28
 - Tech 5-12
+- C 0/0/7 - 0/0/15
+- B 0/2/15 - 0/5/25
+- A 0/10/35 - 0/15/45
+- S 0/30/60 - 0/40/80
 
 #### Hauler
 - Inventory 36-48
 - Tech 2-4
+- C 0/5/2 - 0/10/5
+- B 0/10/5 - 0/20/10
+- A 0/35/10 - 0/45/15
+- S 0/60/40 - 0/70/50
 
 #### Exotic
 - Unchanged
