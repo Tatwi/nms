@@ -916,7 +916,7 @@
     <Property name="OffsetZFlat" value="-0.5" />
     <Property name="BackMinDistance" value="10" />
     <Property name="UpMinDistance" value="-2" />
-    <Property name="BackMaxDistance" value="15" />
+    <Property name="BackMaxDistance" value="20" />
     <Property name="UpMaxDistance" value="-2" />
     <Property name="PanNear" value="-1" />
     <Property name="PanFar" value="-3" />
@@ -924,7 +924,7 @@
     <Property name="HorizRotationAngleMaxPerFrame" value="0" />
     <Property name="VertRotationSpeed" value="10" />
     <Property name="VertRotationMin" value="-25" />
-    <Property name="VertRotationMax" value="30" />
+    <Property name="VertRotationMax" value="45" />
     <Property name="VertRotationOffset" value="2" />
     <Property name="VertRotationOffsetMinAngle" value="-10" />
     <Property name="VertRotationOffsetMaxAngle" value="10" />
@@ -933,7 +933,7 @@
     <Property name="DistSpeedOutsideMainRange" value="5" />
     <Property name="DistStiffness" value="3" />
     <Property name="SpringSpeed" value="0.2" />
-    <Property name="LockToObjectOnIdle" value="True" />
+    <Property name="LockToObjectOnIdle" value="False" />
     <Property name="CenterStartTime" value="1.5" />
     <Property name="CenterBlendTime" value="1.5" />
     <Property name="CenterMaxSpring" value="0.5" />
@@ -1223,7 +1223,7 @@
     <Property name="DistSpeedOutsideMainRange" value="5" />
     <Property name="DistStiffness" value="3" />
     <Property name="SpringSpeed" value="0.2" />
-    <Property name="LockToObjectOnIdle" value="True" />
+    <Property name="LockToObjectOnIdle" value="False" />
     <Property name="CenterStartTime" value="1.5" />
     <Property name="CenterBlendTime" value="1.5" />
     <Property name="CenterMaxSpring" value="0.5" />
