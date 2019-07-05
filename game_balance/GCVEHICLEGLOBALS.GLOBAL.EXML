@@ -146,7 +146,7 @@
   <Property name="CheckpointBeamSizeActive" value="5" />
   <Property name="CheckpointBeamOffset" value="2.4" />
   <Property name="SpawnRotation" value="10" />
-  <Property name="MiningLaserRadius" value="1.3" />
+  <Property name="MiningLaserRadius" value="0.4" />
   <Property name="MiningLaserMiningDamage" value="10" />
   <Property name="MiningLaserDamage" value="2" />
   <Property name="MiningLaserSpeed" value="0.6" />
