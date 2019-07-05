@@ -104,10 +104,10 @@
     <Property name="PlayAudioOnMarkers" value="False" />
     <Property name="ChargeTime" value="4" />
   </Property>
-  <Property name="RobotHUDMarkerRange" value="150" />
+  <Property name="RobotHUDMarkerRange" value="120" />
   <Property name="RobotHUDMarkerFalloff" value="50" />
   <Property name="RobotHUDMarkerMinChangeTime" value="1.5" />
-  <Property name="DroneSquadSpawnRadius" value="100" />
+  <Property name="DroneSquadSpawnRadius" value="80" />
   <Property name="DroneSpawnHeight" value="1" />
   <Property name="DroneScale" value="0.5" />
   <Property name="TestLookFactor" value="20" />
