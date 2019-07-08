@@ -88,5 +88,10 @@ Most of these adjustments apply to all modes of the game, but I am speficically 
 - **Life Support Gel:** Same idea as with the batteries. Slightly more effective than a stack of 500 Oxygen.
 - **Oxygen Capsule:** Same idea as with the batteries. Slightly more effective than a stack of 500 Dioxite.
 
-## ToDo
-- Cause Sentinels in space to disengage (after 3 waves or after the player flees for 30 seconds).
+## No Nuisance Sentinels
+- Aggressive Sentinels are still aggressive.
+- No longer attack the player for mining or for driving over rocks/plants (though their search timer still restarts should one happen to run over a rock while fleeing, which is annoying).
+- Spawn further away so they're not constantly up the player's arse when running/driving. This does make it a bit easier on planets where the Sentinels are aggressive, but it was necessary to prevent them from spawning on top of the player literally every 6-8 seconds when driving.
+
+## Misc Adjustments
+- Exocraft mining laser less destructive to resource nodes, thereby increasing yields such that it is more effective than simply getting out and using the Terrian Manipulator. Takes about the same amount of time as the TM, but does not need to be reloaded as frequently, especially in Survival Mode.

@@ -17,6 +17,9 @@ Means "my game balance adjustments, packaged on 2019-06-27, compatible with Good
 ## Graphics, Models, Audio
 I am not sure that I want to release my *real mods* as "open source", because I've discovered over the years that very few people actually appreciate the time, effort, and talent that goes into making such content. However, if I do decide to release something, it will be in the [art](/art) directory. 
 
+## Misc Preferences
+I've made some adjustments to the camera of the vehicles, making it less cumbersome to mine using the Roamer (buggy) and preventing the weapon/laser on all of the vehicles from resetting (thus moving off the target). These camera adjustments are in the [/camera](camera) directory.
+
 ## License
 GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 See the LICENSE file for copying / copyright details.
 
