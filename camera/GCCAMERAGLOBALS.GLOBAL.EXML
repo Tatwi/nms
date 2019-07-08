@@ -934,7 +934,7 @@
     <Property name="DistStiffness" value="3" />
     <Property name="SpringSpeed" value="0.2" />
     <Property name="LockToObjectOnIdle" value="False" />
-    <Property name="CenterStartTime" value="1.5" />
+    <Property name="CenterStartTime" value="100" />
     <Property name="CenterBlendTime" value="1.5" />
     <Property name="CenterMaxSpring" value="0.5" />
     <Property name="CenterMaxSpeed" value="0.5" />
@@ -991,8 +991,8 @@
     <Property name="DistSpeedOutsideMainRange" value="5" />
     <Property name="DistStiffness" value="3" />
     <Property name="SpringSpeed" value="0.08" />
-    <Property name="LockToObjectOnIdle" value="True" />
-    <Property name="CenterStartTime" value="1.5" />
+    <Property name="LockToObjectOnIdle" value="False" />
+    <Property name="CenterStartTime" value="100" />
     <Property name="CenterBlendTime" value="1.5" />
     <Property name="CenterMaxSpring" value="0.5" />
     <Property name="CenterMaxSpeed" value="0.5" />
@@ -1049,8 +1049,8 @@
     <Property name="DistSpeedOutsideMainRange" value="5" />
     <Property name="DistStiffness" value="3" />
     <Property name="SpringSpeed" value="0.1" />
-    <Property name="LockToObjectOnIdle" value="True" />
-    <Property name="CenterStartTime" value="1.5" />
+    <Property name="LockToObjectOnIdle" value="False" />
+    <Property name="CenterStartTime" value="100" />
     <Property name="CenterBlendTime" value="1.5" />
     <Property name="CenterMaxSpring" value="0.5" />
     <Property name="CenterMaxSpeed" value="0.5" />
@@ -1107,8 +1107,8 @@
     <Property name="DistSpeedOutsideMainRange" value="5" />
     <Property name="DistStiffness" value="3" />
     <Property name="SpringSpeed" value="0.15" />
-    <Property name="LockToObjectOnIdle" value="True" />
-    <Property name="CenterStartTime" value="0.5" />
+    <Property name="LockToObjectOnIdle" value="False" />
+    <Property name="CenterStartTime" value="100" />
     <Property name="CenterBlendTime" value="0.75" />
     <Property name="CenterMaxSpring" value="0.5" />
     <Property name="CenterMaxSpeed" value="0.5" />
@@ -1165,8 +1165,8 @@
     <Property name="DistSpeedOutsideMainRange" value="5" />
     <Property name="DistStiffness" value="5" />
     <Property name="SpringSpeed" value="0.15" />
-    <Property name="LockToObjectOnIdle" value="True" />
-    <Property name="CenterStartTime" value="1.5" />
+    <Property name="LockToObjectOnIdle" value="False" />
+    <Property name="CenterStartTime" value="100" />
     <Property name="CenterBlendTime" value="0.75" />
     <Property name="CenterMaxSpring" value="0.5" />
     <Property name="CenterMaxSpeed" value="0.5" />
@@ -1224,7 +1224,7 @@
     <Property name="DistStiffness" value="3" />
     <Property name="SpringSpeed" value="0.2" />
     <Property name="LockToObjectOnIdle" value="False" />
-    <Property name="CenterStartTime" value="1.5" />
+    <Property name="CenterStartTime" value="100" />
     <Property name="CenterBlendTime" value="1.5" />
     <Property name="CenterMaxSpring" value="0.5" />
     <Property name="CenterMaxSpeed" value="0.5" />
