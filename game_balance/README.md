@@ -95,3 +95,8 @@ Most of these adjustments apply to all modes of the game, but I am speficically 
 
 ## Misc Adjustments
 - Exocraft mining laser less destructive to resource nodes, thereby increasing yields such that it is more effective than simply getting out and using the Terrian Manipulator. Takes about the same amount of time as the TM, but does not need to be reloaded as frequently, especially in Survival Mode.
+
+## Space Combat
+- Can now disengage from Sentinels in space by outrunning them. This also makes them fly slower in general.
+- Increased the health of all other enemy ship types by quite a lot, so they require some effort to destroy.
+- Easy level ships are now Medium level, but with less health.
