@@ -10,7 +10,7 @@
       <Property name="PlanetEngine" value="PLANET" />
       <Property name="Reward" value="" />
       <Property name="RewardCount" value="4" />
-      <Property name="Health" value="3000" />
+      <Property name="Health" value="20000" />
       <Property name="Gun" value="AISHIPGUN" />
       <Property name="LaserDamageLevel" value="1" />
       <Property name="Icon" value="TkTextureResource.xml">
@@ -25,7 +25,7 @@
       <Property name="PlanetEngine" value="PLANET" />
       <Property name="Reward" value="PIRAT_LOOT_EASY" />
       <Property name="RewardCount" value="2" />
-      <Property name="Health" value="6000" />
+      <Property name="Health" value="25000" />
       <Property name="Gun" value="AISHIPGUN" />
       <Property name="LaserDamageLevel" value="1" />
       <Property name="Icon" value="TkTextureResource.xml">
@@ -40,7 +40,7 @@
       <Property name="PlanetEngine" value="PLANET" />
       <Property name="Reward" value="PIRAT_LOOT_MED" />
       <Property name="RewardCount" value="3" />
-      <Property name="Health" value="8000" />
+      <Property name="Health" value="35000" />
       <Property name="Gun" value="AISHIPGUN" />
       <Property name="LaserDamageLevel" value="1" />
       <Property name="Icon" value="TkTextureResource.xml">
@@ -55,7 +55,7 @@
       <Property name="PlanetEngine" value="PLANET" />
       <Property name="Reward" value="PIRAT_LOOT_HARD" />
       <Property name="RewardCount" value="4" />
-      <Property name="Health" value="14000" />
+      <Property name="Health" value="45000" />
       <Property name="Gun" value="AISHIPGUN" />
       <Property name="LaserDamageLevel" value="1" />
       <Property name="Icon" value="TkTextureResource.xml">
@@ -70,7 +70,7 @@
       <Property name="PlanetEngine" value="PLANET" />
       <Property name="Reward" value="PIRAT_LOOT_HARD" />
       <Property name="RewardCount" value="4" />
-      <Property name="Health" value="30000" />
+      <Property name="Health" value="50000" />
       <Property name="Gun" value="AISHIPGUN" />
       <Property name="LaserDamageLevel" value="1" />
       <Property name="Icon" value="TkTextureResource.xml">
@@ -85,7 +85,7 @@
       <Property name="PlanetEngine" value="PLANET" />
       <Property name="Reward" value="PIRATELOOT" />
       <Property name="RewardCount" value="4" />
-      <Property name="Health" value="6000" />
+      <Property name="Health" value="35000" />
       <Property name="Gun" value="AISHIPGUN" />
       <Property name="LaserDamageLevel" value="1" />
       <Property name="Icon" value="TkTextureResource.xml">
@@ -95,7 +95,7 @@
     <Property value="GcShipAICombatDefinition.xml">
       <Property name="Id" value="POLICE" />
       <Property name="Behaviour" value="HARD" />
-      <Property name="Engine" value="STANDARD" />
+      <Property name="Engine" value="PLANET_TRADE" />
       <Property name="PlanetBehaviour" value="PLANET" />
       <Property name="PlanetEngine" value="PLANET" />
       <Property name="Reward" value="" />
@@ -115,7 +115,7 @@
       <Property name="PlanetEngine" value="PLANET" />
       <Property name="Reward" value="TRAD_LOOT_EASY" />
       <Property name="RewardCount" value="2" />
-      <Property name="Health" value="6000" />
+      <Property name="Health" value="30000" />
       <Property name="Gun" value="TRADERGUN" />
       <Property name="LaserDamageLevel" value="1" />
       <Property name="Icon" value="TkTextureResource.xml">
@@ -130,7 +130,7 @@
       <Property name="PlanetEngine" value="PLANET" />
       <Property name="Reward" value="TRAD_LOOT_MED" />
       <Property name="RewardCount" value="3" />
-      <Property name="Health" value="8000" />
+      <Property name="Health" value="40000" />
       <Property name="Gun" value="TRADERGUN" />
       <Property name="LaserDamageLevel" value="1" />
       <Property name="Icon" value="TkTextureResource.xml">
@@ -145,7 +145,7 @@
       <Property name="PlanetEngine" value="PLANET" />
       <Property name="Reward" value="TRAD_LOOT_HARD" />
       <Property name="RewardCount" value="4" />
-      <Property name="Health" value="14000" />
+      <Property name="Health" value="50000" />
       <Property name="Gun" value="TRADERGUN" />
       <Property name="LaserDamageLevel" value="1" />
       <Property name="Icon" value="TkTextureResource.xml">
@@ -160,7 +160,7 @@
       <Property name="PlanetEngine" value="PLANET" />
       <Property name="Reward" value="" />
       <Property name="RewardCount" value="1" />
-      <Property name="Health" value="20000" />
+      <Property name="Health" value="50000" />
       <Property name="Gun" value="BOUNTYGUN1" />
       <Property name="LaserDamageLevel" value="1" />
       <Property name="Icon" value="TkTextureResource.xml">
