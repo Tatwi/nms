@@ -197,7 +197,7 @@
       </Property>
       <Property name="HitMessage" value="" />
       <Property name="CriticalHitMessage" value="NOTIFY_CRITIAL_HIT" />
-      <Property name="Damage" value="4" />
+      <Property name="Damage" value="16" />
       <Property name="HardModeMultiplier" value="1" />
       <Property name="PushForce" value="0" />
       <Property name="CameraTurn" value="0" />
@@ -214,7 +214,7 @@
       </Property>
       <Property name="HitMessage" value="" />
       <Property name="CriticalHitMessage" value="NOTIFY_CRITIAL_HIT" />
-      <Property name="Damage" value="8" />
+      <Property name="Damage" value="24" />
       <Property name="HardModeMultiplier" value="1" />
       <Property name="PushForce" value="0" />
       <Property name="CameraTurn" value="0" />

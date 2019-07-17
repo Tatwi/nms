@@ -3,7 +3,7 @@
 <Data template="GcRobotGlobals">
   <Property name="GrenadeLaunchFlightTime" value="4" />
   <Property name="AttackSentinelWantedValue" value="3" />
-  <Property name="MaxNumPatrolDrones" value="1" />
+  <Property name="MaxNumPatrolDrones" value="5" />
   <Property name="UnderwaterPerceptionMargin" value="8" />
   <Property name="DronePatrolScanPlayer" value="False" />
   <Property name="DroneSearchPickNearbyTime" value="6" />
@@ -41,7 +41,7 @@
     <Property name="x" value="1" />
     <Property name="y" value="1.2" />
   </Property>
-  <Property name="DroneAggroDamage" value="40" />
+  <Property name="DroneAggroDamage" value="5" />
   <Property name="CombatWaveSpawnTime" value="10" />
   <Property name="DronePerceptionMinHearingSpeed" value="1" />
   <Property name="DroneSearchLookSpeed" value="0.2" />
@@ -167,7 +167,7 @@
   <Property name="DronePatrolAttackSightTime" value="2.5" />
   <Property name="DronePatrolInvestigateSpeedBoost" value="1.5" />
   <Property name="DronePatrolSearchTime" value="3.5" />
-  <Property name="MaxNumInvestigatingDrones" value="3" />
+  <Property name="MaxNumInvestigatingDrones" value="6" />
   <Property name="DroneCrimeCooldown" value="0.3" />
   <Property name="DroneCrimeCooldownWaitTime" value="10" />
   <Property name="DroneCrimeCooldownWaitTimeAtMax" value="15" />
@@ -258,7 +258,7 @@
   <Property name="QuadHearingRange" value="25" />
   <Property name="QuadSightRange" value="30" />
   <Property name="QuadSightAngle" value="40" />
-  <Property name="DronePerceptionRange" value="15" />
+  <Property name="DronePerceptionRange" value="25" />
   <Property name="DronePerceptionSightRange" value="30" />
   <Property name="DronePerceptionSightAngle" value="40" />
   <Property name="AttackMoveMaxTime" value="4" />
@@ -311,7 +311,7 @@
   </Property>
   <Property name="DroneControl" value="GcDroneData.xml">
     <Property name="Patrol" value="GcDroneControlData.xml">
-      <Property name="MaxSpeed" value="4" />
+      <Property name="MaxSpeed" value="8" />
       <Property name="Strength" value="0.5" />
       <Property name="DirectionBrake" value="1" />
       <Property name="MinHeight" value="1.5" />
@@ -363,9 +363,9 @@
       <Property name="RepelRange" value="10" />
     </Property>
     <Property name="CollisionAvoidOffset" value="2.2" />
-    <Property name="DronePatrolDistanceMin" value="10" />
-    <Property name="DronePatrolDistanceMax" value="30" />
-    <Property name="DronePatrolTargetDistance" value="10" />
+    <Property name="DronePatrolDistanceMin" value="40" />
+    <Property name="DronePatrolDistanceMax" value="80" />
+    <Property name="DronePatrolTargetDistance" value="40" />
     <Property name="DronePatrolInspectDistanceMin" value="2" />
     <Property name="DronePatrolInspectDistanceMax" value="20" />
     <Property name="DronePatrolInspectTargetTime" value="8" />
@@ -380,7 +380,7 @@
     <Property name="AttackTimeout" value="0.3" />
     <Property name="AttackFireRate" value="3" />
     <Property name="AttackNumShotsMin" value="3" />
-    <Property name="AttackNumShotsMax" value="4" />
+    <Property name="AttackNumShotsMax" value="6" />
     <Property name="AttackFireTimeMin" value="2" />
     <Property name="AttackFireTimeMax" value="5" />
     <Property name="AttackMoveLookDistanceRange" value="20" />
