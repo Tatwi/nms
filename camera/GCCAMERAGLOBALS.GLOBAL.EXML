@@ -8,8 +8,8 @@
   <Property name="UnderwaterCameraSurfaceOffset" value="-1" />
   <Property name="ThirdPersonAfterIntroCamBlendTime" value="1.9" />
   <Property name="ThirdPersonSkipIntroCamBlendTime" value="0.8" />
-  <Property name="VehicleExitFlashTime" value="0.8" />
-  <Property name="VehicleExitFlashStrength" value="0.8" />
+  <Property name="VehicleExitFlashTime" value="0.0" />
+  <Property name="VehicleExitFlashStrength" value="0.0" />
   <Property name="VehicleExitFlashColour" value="Colour.xml">
     <Property name="R" value="0" />
     <Property name="G" value="0" />
@@ -32,8 +32,8 @@
   <Property name="FlybyMinRelativeSpeed" value="50" />
   <Property name="FlybyRelativeSpeedRange" value="100" />
   <Property name="FlybyInVehicleDamper" value="0.5" />
-  <Property name="BinocularFlashTime" value="0.24" />
-  <Property name="BinocularFlashStrength" value="0.9" />
+  <Property name="BinocularFlashTime" value="0.0" />
+  <Property name="BinocularFlashStrength" value="0.0" />
   <Property name="MinFirstPersonCameraPitch" value="65" />
   <Property name="MaxFirstPersonCameraPitch" value="84" />
   <Property name="CharacterUnarmedCam" value="GcCameraFollowSettings.xml">
@@ -1546,7 +1546,7 @@
     <Property name="CustomBlendTime" value="0.5" />
   </Property>
   <Property name="FrontendModelCameraSpringTime" value="0" />
-  <Property name="ModelViewFlashTime" value="0.8" />
+  <Property name="ModelViewFlashTime" value="0.0" />
   <Property name="ModelViewOffset" value="Vector4f.xml">
     <Property name="x" value="0.5" />
     <Property name="y" value="0" />
