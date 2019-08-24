@@ -1,5 +1,5 @@
 # My No Man's Sky Stuff
-This repo contains my personal game play adjustments and custom graphics, models, and audio files for version 1.77 of No Man's Sky. It is compatible with the GOG.com patch 44840_Main_26826. I am sticking with version of the game, so later versions are not supported.
+This repository contains my personal game play adjustments, custom graphic/3D/audio files, and reference material for version 1.77 of No Man's Sky. It is compatible with the GOG.com patch 44840_Main_26826; Other versions of the game are not intended to be used.
 
 ## Game Balance
 I started  playing NMS in 2019 durring the [version 1.77 update](https://www.nomanssky.com/release-log/), with a about a 50/50 split between Normal and Survival modes (in single player). While I truly love the game, I've come to the conclusion that it is both amazing and *amazingly easy*! After the first hour, "Survival Mode" ends up being "Tedious Resource Requirement Mode" - it's simply not any harder than Normal Mode at all once one can carry enough resources to recharge the protections and one has a few upgrade modules. Seriously, in 70 hours of survival game play, I died 3 times: twice when I blew myself up with the plasma cannon while decorating my base (too many things are bound to the right mouse button, making it easy to accidentally fire your secondary weapon), and once when I ended a rocket boots jump at the top of very deep hole. Yeah, the game is crazy easy, but it's also very fun!  
@@ -20,6 +20,9 @@ If make any and I decide to share them, they will be in the [art](/art) director
 **Camera Adustments** [camera](/camera)  
 - Adjustments to the camera of the vehicles, making it less cumbersome to mine using the Roamer (buggy) and preventing the weapon/laser on all of the vehicles from resetting (thus moving off the target).  
 - Disabled the white flash on camera transitions, as they gave me head aches and eye strain.
+
+## Reference Material
+Documentation specific to version 1.77 of the game can be found in the [reference](/reference) directory.
 
 ## License
 GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 See the LICENSE file for copying / copyright details.
